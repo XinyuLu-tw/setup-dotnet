@@ -9,7 +9,7 @@ namespace sample_csproj
         [TestMethod]
         public void TestMethod1()
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World-1!");
         }
     }
 }
